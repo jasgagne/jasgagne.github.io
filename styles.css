@@ -28,13 +28,13 @@ html {
     background-color: #66cccc;
     border-color: #333;
     color: #333333;
-    transition: transform 0.5s;
+    transition: transform 0.1s;
     font-weight: 700;
     text-transform: uppercase;
 }
 
 .btn:hover {
-    transform: scale(1.05);
+    transform: scale(1.2);
     background-color: #333;
     color: #fff;
     border-color: #66cccc;
